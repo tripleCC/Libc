@@ -47,7 +47,7 @@
 #include <os/base.h>
 #include <os/api.h>
 #include <os/assumes.h>
-#include <os/stdio.h>
+#include <sys/stdio.h>
 #include <dispatch/private.h>
 
 #include <stdlib.h>
